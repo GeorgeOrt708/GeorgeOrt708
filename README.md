@@ -1,6 +1,6 @@
 ![banner](https://i.imgur.com/hBTwZBY.png)
 # Hello, I'm George Ortega
-<a href="[https://linkedin.com](https://www.linkedin.com/in/george-ortega/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=white" /></a>
+<a href="[https://www.linkedin.com/in/george-ortega](https://www.linkedin.com/in/george-ortega/)"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=white" /></a>
 
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
