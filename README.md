@@ -19,7 +19,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=1679A7&labelColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=1679A7&labelColor=white">
 </div>
 
 ### Endpoint
